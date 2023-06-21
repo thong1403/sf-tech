@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/sf-tech/static/css/main.11998dd7.css",
+    "main.js": "/sf-tech/static/js/main.82480039.js",
+    "static/media/download (1).jpg": "/sf-tech/static/media/download (1).1b4423b928c6eb307d97.jpg",
+    "static/media/353399350_137125962717203__n.jpg": "/sf-tech/static/media/353399350_137125962717203_6462137882169683759_n.8582cb13e805a8125e43.jpg",
+    "static/media/download (7).jpg": "/sf-tech/static/media/download (7).960af7a1f713040ef956.jpg",
+    "static/media/download (5).jpg": "/sf-tech/static/media/download (5).87177956a38a3fda827d.jpg",
+    "static/media/fa-solid-900.ttf": "/sf-tech/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/download (6).jpg": "/sf-tech/static/media/download (6).d21784750c902a536bcc.jpg",
+    "static/media/fa-brands-400.ttf": "/sf-tech/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/sf-tech/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/344572211_610850051101753__n.jpg": "/sf-tech/static/media/344572211_610850051101753_648459733799646473_n.73c79072fd5e6a31d576.jpg",
+    "static/media/fa-brands-400.woff2": "/sf-tech/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/download.jpg": "/sf-tech/static/media/download.e5c735e7baa72a2604ff.jpg",
+    "static/media/fa-regular-400.ttf": "/sf-tech/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/download (2).jpg": "/sf-tech/static/media/download (2).ade847832919e0bd8a89.jpg",
+    "static/media/download (3).jpg": "/sf-tech/static/media/download (3).8c04cc2d0a38d7447c56.jpg",
+    "static/media/download (4).jpg": "/sf-tech/static/media/download (4).1689d012cabfd53c56d5.jpg",
+    "static/media/fa-regular-400.woff2": "/sf-tech/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/sf-tech/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/sf-tech/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/sf-tech/index.html",
+    "main.11998dd7.css.map": "/sf-tech/static/css/main.11998dd7.css.map",
+    "main.82480039.js.map": "/sf-tech/static/js/main.82480039.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11998dd7.css",
+    "static/js/main.82480039.js"
+  ]
+}
