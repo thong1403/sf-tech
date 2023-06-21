@@ -11,7 +11,7 @@ export default function ContactUs() {
     <>
     <div className="container-contact-us">
       <div className="img-backgroud-title">
-        <img src={imgBackgroud} alt="" className="w-100 h-75" />
+        <img src={imgBackgroud} alt="" className="w-100 img-backgroud-contact-us" />
         <div>
           <h1>CONTACT US</h1>
           <p>

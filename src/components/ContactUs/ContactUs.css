@@ -16,7 +16,7 @@
 }
 .input-form-container{
     position: absolute;
-    top: 90%;
+    top: 60%;
     left: 8%;
     background-color: white;
     -webkit-box-shadow: -2px 1px 26px -5px rgba(0,0,0,0.75);
@@ -25,9 +25,12 @@ box-shadow: -2px 1px 26px -5px rgba(0,0,0,0.75);
 border-radius: 10px;
 }
 .container-contact-us{
-margin-bottom: 15%;
+margin-bottom: 25%;
 
 }
 .project-description{
     height: 150px !important;
+}
+.img-backgroud-contact-us{
+    height: 600px;
 }
