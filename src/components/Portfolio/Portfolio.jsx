@@ -3,11 +3,12 @@ import img1 from "../../image/download (5).jpg";
 import imgProject1 from "../../image/download (2).jpg";
 import imgFooterProject from "../../image/download (6).jpg";
 import "./Portfolio.css";
+import { Link } from "react-router-dom";
 
 export default function Portfolio() {
   return (
     <>
-      <img src={img1} alt="" className="w-100" />
+      <img src={img1} alt="" className="w-100 img-portfolio" />
       <div className="container mt-5">
         <div className="row">
           <div className="col-1"></div>
@@ -70,7 +71,11 @@ export default function Portfolio() {
         <img src={imgFooterProject} alt="" className="img-footer-btn-project" />
         <div className="tell-project-title">
           <h1 className="fs-1">TELL US ABOUT YOUR PROJECT</h1>
-          <button className="mt-3">Contact Now</button>
+          <button className="mt-3 btn-contact-now">
+            <Link to='/contactus'>
+            Contact Now
+            </Link>
+            </button>
         </div>
       </div>
     </>

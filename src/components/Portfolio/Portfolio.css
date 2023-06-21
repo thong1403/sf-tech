@@ -32,3 +32,9 @@
       background-position-x: 500%;
     }
   }
+  .btn-contact-now{
+    border-radius: 10px;
+  }
+  .img-portfolio{
+    height: 600px;
+  }
