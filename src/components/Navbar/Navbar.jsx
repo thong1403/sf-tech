@@ -1,12 +1,13 @@
 import React from "react";
-import './Navbar.css'
+import { Link } from "react-router-dom";
+import "./Navbar.css";
 
 export default function Navbar() {
   return (
     <>
-      <nav class="navbar navbar-expand-lg navbar-light bg-light container-navbar w-100 ">
-        <div class="container">
-          <a class="navbar-brand me-2" href="https://mdbgo.com/">
+      <nav className="navbar navbar-expand-lg navbar-light bg-light container-navbar w-100 ">
+        <div className="container">
+          <a className="navbar-brand me-2" href="https://mdbgo.com/">
             <img
               src="https://mdbcdn.b-cdn.net/img/logo/mdb-transaprent-noshadows.webp"
               height="16"
@@ -16,7 +17,7 @@ export default function Navbar() {
           </a>
 
           <button
-            class="navbar-toggler"
+            className="navbar-toggler"
             type="button"
             data-mdb-toggle="collapse"
             data-mdb-target="#navbarButtonsExample"
@@ -24,23 +25,34 @@ export default function Navbar() {
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
-            <i class="fas fa-bars"></i>
+            <i className="fas fa-bars"></i>
           </button>
 
-          <div class="collapse navbar-collapse" id="navbarButtonsExample">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0 m-auto">
-              <li class="nav-item m-4"><b>Services</b> </li>
-              <li class="nav-item m-4"><b>Industries</b> </li>
-              <li class="nav-item m-4"><b>Portfolio</b> </li>
-              <li class="nav-item m-4"><b>Products</b> </li>
-              <li class="nav-item m-4"><b>Company</b> </li>
-              <li class="nav-item m-4"><b>Insight</b> </li>
+          <div className="collapse navbar-collapse" id="navbarButtonsExample">
+            <ul className="navbar-nav me-auto mb-2 mb-lg-0 m-auto">
+              <li className="nav-item m-4">
+                <b>
+                  <Link to="/portfolio" className="link">Portfolio</Link>{" "}
+                </b>{" "}
+              </li>
+              <li className="nav-item m-4">
+                <b>
+                  <Link to="/product" className="link">Products</Link>{" "}
+                </b>{" "}
+              </li>
+              <li className="nav-item m-4">
+                <Link to='/company' className="link">
+                <b>Company</b>{" "}
+                </Link>
+              </li>
             </ul>
 
-            <div class="d-flex align-items-center">
-              <button type="button" class="btn btn-primary me-5 p-3">
-                CONTACT us
-              </button>
+            <div className="d-flex align-items-center">
+              <Link to="contactus">
+                <button type="button" class="btn btn-primary me-5 p-3">
+                  CONTACT us
+                </button>
+              </Link>
             </div>
           </div>
         </div>

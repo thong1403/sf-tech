@@ -1,13 +1,20 @@
-
-.image-button-contacts-us{
+.img-footer-btn-project{
+    height: 300px !important;
+    width: 100%;
+}
+.container-tell-project{
     position: relative;
 }
-.title-btn-contac-us{
+.tell-project-title{
     position: absolute;
-    top: 20%;
-    left: 6%;
+    top: 30%;
+    left: 15%;
 }
-.title-btn-contac-us h1{
+.tell-project-title button{
+    color: #1693D5;
+    padding: 10px 20px 10px 20px;
+}
+.tell-project-title h1{
     font-size: 45px;
     color: #0CD4EF;
     background: linear-gradient(90deg, #318eb5, #fff, #3aa4c7);
@@ -25,10 +32,3 @@
       background-position-x: 500%;
     }
   }
-.title-btn-contac-us button{
-    width: 20%;
-    height: 50px;
-    border-radius: 10px;
-    border: 1px solid #1668B2;
-    color: #1668B2;
-}
