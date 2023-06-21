@@ -1,0 +1,15 @@
+.container-navbar:hover {
+  background-color: #1668b2 !important;
+  color: white !important;
+  transition: 0.5s;
+  .btn-primary {
+    background-color: white;
+    color: #216fb6;
+  }
+}
+.container-navbar{
+  position: fixed !important;
+  top: 0;
+  background-color: rgba(173, 169, 169, 0.872) !important;
+  margin-bottom: 10% !important;
+}

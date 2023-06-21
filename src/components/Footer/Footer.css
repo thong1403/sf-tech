@@ -1,0 +1,11 @@
+.footer-title-container p{
+    color: #9797AF;
+}
+.footer-title-container p:hover{
+    color: black;
+}
+.container-footer-logo{
+    border-top: 2px solid rgb(211, 209, 209);
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
