@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sf-tech/static/css/main.29d38130.css",
-    "main.js": "/sf-tech/static/js/main.e0d21e3a.js",
+    "main.js": "/sf-tech/static/js/main.5460973a.js",
     "static/media/353399350_137125962717203__n.jpg": "/sf-tech/static/media/353399350_137125962717203_6462137882169683759_n.8582cb13e805a8125e43.jpg",
     "static/media/download (7).jpg": "/sf-tech/static/media/download (7).960af7a1f713040ef956.jpg",
     "static/media/computer-programming.jpg": "/sf-tech/static/media/computer-programming.38815ed07c116525ab54.jpg",
@@ -23,10 +23,10 @@
     "static/media/fa-v4compatibility.woff2": "/sf-tech/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/sf-tech/index.html",
     "main.29d38130.css.map": "/sf-tech/static/css/main.29d38130.css.map",
-    "main.e0d21e3a.js.map": "/sf-tech/static/js/main.e0d21e3a.js.map"
+    "main.5460973a.js.map": "/sf-tech/static/js/main.5460973a.js.map"
   },
   "entrypoints": [
     "static/css/main.29d38130.css",
-    "static/js/main.e0d21e3a.js"
+    "static/js/main.5460973a.js"
   ]
 }
