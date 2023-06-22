@@ -1,0 +1,48 @@
+.img-backgroud-home{
+    height: 600px;
+}
+.carouselExampleIndicators{
+    position: relative;
+}
+.title-main-pages{
+    position: absolute;
+    top: 20%;
+    left: 15%;
+    color: white;
+}
+.title-main-pages h1{
+    font-size: 80px;
+    font-weight: 900;
+}
+.title-main-pages p{
+    font-size: 17px;
+}
+.title-main-pages button{
+    padding: 10px 20px 10px 20px;
+    color: white;
+    background-color: #1668B2;
+    border-radius: 10px;
+    border: none;
+}
+.content-main-pages{
+    border: 1px solid gray;
+    background-color: white;
+    
+}
+.container-content-img-mainPages{
+    position: relative;
+    margin-bottom: 50%;
+
+
+}
+.container-content-main-pages {
+    position: absolute;
+    top: 60%;
+    left: 8%;
+}
+.img-backGroud{
+    height: 600px;
+}
+.img-backgroud-content{
+    height: 400px;
+}

@@ -7,15 +7,14 @@ export default function Navbar() {
     <>
       <nav className="navbar navbar-expand-lg navbar-light bg-light container-navbar w-100 ">
         <div className="container">
-          <a className="navbar-brand me-2" href="https://mdbgo.com/">
-            <img
-              src="https://mdbcdn.b-cdn.net/img/logo/mdb-transaprent-noshadows.webp"
-              height="16"
-              alt="MDB Logo"
-              loading="lazy"
-            />
-          </a>
-
+            <Link to="/">
+              <img
+                src="https://mdbcdn.b-cdn.net/img/logo/mdb-transaprent-noshadows.webp"
+                height="16"
+                alt="MDB Logo"
+                loading="lazy"
+              />
+            </Link>
           <button
             className="navbar-toggler"
             type="button"
@@ -32,17 +31,21 @@ export default function Navbar() {
             <ul className="navbar-nav me-auto mb-2 mb-lg-0 m-auto">
               <li className="nav-item m-4">
                 <b>
-                  <Link to="/portfolio" className="link">Portfolio</Link>{" "}
+                  <Link to="/portfolio" className="link">
+                    Portfolio
+                  </Link>{" "}
                 </b>{" "}
               </li>
               <li className="nav-item m-4">
                 <b>
-                  <Link to="/product" className="link">Products</Link>{" "}
+                  <Link to="/product" className="link">
+                    Products
+                  </Link>{" "}
                 </b>{" "}
               </li>
               <li className="nav-item m-4">
-                <Link to='/company' className="link">
-                <b>Company</b>{" "}
+                <Link to="/company" className="link">
+                  <b>Company</b>{" "}
                 </Link>
               </li>
             </ul>

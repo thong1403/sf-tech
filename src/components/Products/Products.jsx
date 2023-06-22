@@ -1,8 +1,7 @@
 import React from "react";
 import "./Products.css";
 import imagebackgroud from "../../image/344572211_610850051101753_648459733799646473_n.jpg";
-import imageContent from "../../image/download.jpg";
-import imgContent1 from "../../image/download (1).jpg";
+import imageContent from "../../image/download (1).jpg";
 import img2 from "../../image/download (2).jpg";
 import img3 from "../../image/download (3).jpg";
 import img4 from "../../image/download (4).jpg";
@@ -47,7 +46,7 @@ export default function Products() {
           <div className="col-10">
             <div className="row">
               <div className="col-6">
-                <img src={imgContent1} alt="" className="w-100" />
+                <img src={img3} alt="" className="w-100" />
               </div>
               <div className="col-6">
                 <h2>
