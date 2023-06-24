@@ -1,3 +1,76 @@
-body{
-    background-color: #F2F2F2;
+body {
+  background-color: #f2f2f2;
+}
+@media (max-width: 768px) {
+  .col-4 {
+    width: 50% !important;
+  }
+  .title-btn-contac-us h1 {
+    font-size: 130% !important;
+  }
+  .title-btn-contac-us button {
+    font-size: 100%;
+    width: 30% !important;
+    height: 20% !important;
+  }
+  .input-form-container{
+    position: absolute;
+    top: 40% !important;
+  }
+  .router-pages{
+    margin-bottom: 30%;
+  }
+  .footer-title-container{
+    font-size: 50%;
+  }
+  .footer-title-container h5{
+    font-size: 100% !important;
+  }
+}
+@media (min-width: 800px) {
+  .title-btn-contac-us h1 {
+    font-size: 100% !important;
+  }
+  .title-btn-contac-us button {
+    font-size: 100%;
+    width: 30% !important;
+    height: 20% !important;
+  }
+  .img-backgroud-title {
+    position: relative;
+    color: white;
+  }
+  .img-backgroud-title div {
+    position: absolute;
+    top: 50%;
+    left: 15%;
+  }
+  .input-form-container{
+    position: absolute;
+    top: 40% !important;
+  }
+  .title-btn-contac-us h1 {
+    font-size: 130% !important;
+  }
+}
+@media (min-width: 1000px){
+.img-backgroud-title h1{
+  font-size: 80px !important;
+}
+.input-form-container{
+  position: absolute;
+  top: 60% !important;
+  left: 15%;
+}
+.img-backgroud-title p{
+  font-size: 15px !important;
+}
+}
+@media (max-width: 500px){
+/* .container-contact-us {
+  margin-bottom: 80% !important;
+} */
+.title-btn-contac-us h1 {
+  font-size: 130% !important;
+}
 }

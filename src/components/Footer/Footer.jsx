@@ -4,11 +4,8 @@ import "./Footer.css";
 export default function Footer() {
   return (
     <>
-      <div className="container mt-5 container-footer-below">
+      <div className="container mt-5  container-footer-below">
         <div className="row">
-          <div className="col-1"></div>
-          <div className="col-10">
-            <div className="row">
               <div className="col-3 footer-title-container">
                 <h5 className="mb-3">Servies</h5>
                 <p>Business Technology Consulting</p>
@@ -53,9 +50,6 @@ export default function Footer() {
               </div>
             </div>
           </div>
-          <div className="col-1"></div>
-        </div>
-      </div>
     </>
   );
 }

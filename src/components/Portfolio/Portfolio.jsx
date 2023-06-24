@@ -72,7 +72,7 @@ export default function Portfolio() {
         <div className="tell-project-title">
           <h1 className="fs-1">TELL US ABOUT YOUR PROJECT</h1>
           <button className="mt-3 btn-contact-now">
-            <Link to='/contactus'>
+            <Link to='/contact-us/'>
             Contact Now
             </Link>
             </button>

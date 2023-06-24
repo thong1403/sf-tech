@@ -12,9 +12,9 @@ export default function HomePage() {
     <div className='router-pages'>
       <Routes>
         <Route path='/product' element={<Products/>}/>
-        <Route path='/sf-tech/' element={<MainPage/>}/>
+        <Route path='/' element={<MainPage/>}/>
         <Route path='/portfolio' element={<Portfolio/>}/>
-        <Route path='/contactus' element={<ContactUs/>}/>
+        <Route path='/contact-us/' element={<ContactUs/>}/>
         <Route path='/company' element={<Company/>}/>
       </Routes>
     </div>

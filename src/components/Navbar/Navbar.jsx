@@ -51,7 +51,7 @@ export default function Navbar() {
             </ul>
 
             <div className="d-flex align-items-center">
-              <Link to="contactus">
+              <Link to="/contact-us/">
                 <button type="button" class="btn btn-primary me-5 p-3">
                   CONTACT us
                 </button>

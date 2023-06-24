@@ -13,10 +13,15 @@
 .container-navbar{
   position: fixed !important;
   top: 0;
+  height: 11%;
   background-color: rgba(173, 169, 169, 0.872) !important;
-  margin-bottom: 10% !important;
   z-index: 2;
+  color: gray;
+  font-size: 15px;
 }
 .container-navbar link:hover{
   color: white;
+}
+.container-navbar button{
+  font-size: 13px;
 }
