@@ -23,9 +23,7 @@ export default function Company() {
         </div>
         <div class="container custom-section">
           <div class="breadcrumb breadcrumb--mobile">
-            <a class="link" href="/">
               <i class="material-icons">home</i>{" "}
-            </a>
             <span>
               <i class="material-icons">chevron_right</i>{" "}
             </span>

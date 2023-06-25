@@ -929,7 +929,6 @@ export default function MainPage() {
                               </div>
                             </div>
                           </a>
-                          <a class="card" href="/travel-logistics/">
                             <div class="card__image">
                               <img
                                 src="https://ntq.com.vn/media/I3F2kBZmQxayHIZccqew"
@@ -951,12 +950,10 @@ export default function MainPage() {
                                 <i class="material-icons">chevron_right</i>
                               </div>
                             </div>
-                          </a>
                         </div>
                       </div>
                       <div class="swiper-slide swiper-slide-next">
                         <div class="grid grid--c3 swiper-slide">
-                          <a class="card" href="/e-commerce/">
                             <div class="card__image">
                               <img
                                 src="https://ntq.com.vn/media/Z6jXQfGQ4aMpRmr3Ge3C"
@@ -978,8 +975,6 @@ export default function MainPage() {
                                 <i class="material-icons">chevron_right</i>
                               </div>
                             </div>
-                          </a>
-                          <a class="card" href="/social-platform/">
                             <div class="card__image">
                               <img
                                 src="https://ntq.com.vn/media/occzs3zPQq2QC5yP2dnA"
@@ -999,8 +994,6 @@ export default function MainPage() {
                                 <i class="material-icons">chevron_right</i>
                               </div>
                             </div>
-                          </a>
-                          <a class="card" href="/business-process-application/">
                             <div class="card__image">
                               <img
                                 src="https://ntq.com.vn/media/RmkHeAFVQ32Doq6ny69M"
@@ -1022,7 +1015,6 @@ export default function MainPage() {
                                 <i class="material-icons">chevron_right</i>
                               </div>
                             </div>
-                          </a>
                         </div>
                       </div>
                     </div>
@@ -1050,7 +1042,6 @@ export default function MainPage() {
                 <div class="cards" id="thirdTabContent">
                   <div class="cards__xs-hidden">
                     <div class="card-row grid grid--c3 card-row--active">
-                      <a class="card" href="/products/#iluton">
                         <div class="card__image">
                           <img
                             src="https://ntq.com.vn/media/t86cLB6mSBm9JiiUMG5I"
@@ -1068,8 +1059,6 @@ export default function MainPage() {
                             <i class="material-icons">chevron_right</i>
                           </div>
                         </div>
-                      </a>
-                      <a class="card" href="/products/#enkomm">
                         <div class="card__image">
                           <img
                             src="https://ntq.com.vn/media/Si4ruD1SIa0TLt10yhrn"
@@ -1087,8 +1076,6 @@ export default function MainPage() {
                             <i class="material-icons">chevron_right</i>
                           </div>
                         </div>
-                      </a>
-                      <a class="card" href="/products/#konia">
                         <div class="card__image">
                           <img
                             src="https://ntq.com.vn/media/ixSeT9qkScqyxA2tYnIX"
@@ -1106,10 +1093,8 @@ export default function MainPage() {
                             <i class="material-icons">chevron_right</i>
                           </div>
                         </div>
-                      </a>
                     </div>
                     <div class="card-row grid grid--c3">
-                      <a class="card" href="/products/#shopify-solutions">
                         <div class="card__image">
                           <img
                             src="https://ntq.com.vn/media/uIz0dwzCTlqexBjSdwtF"
@@ -1128,8 +1113,6 @@ export default function MainPage() {
                             <i class="material-icons">chevron_right</i>
                           </div>
                         </div>
-                      </a>
-                      <a class="card" href="/products/#dentalflow">
                         <div class="card__image">
                           <img
                             src="https://ntq.com.vn/media/TUsBbpoSZidCIXIHWpeo"
@@ -1147,8 +1130,6 @@ export default function MainPage() {
                             <i class="material-icons">chevron_right</i>
                           </div>
                         </div>
-                      </a>
-                      <a class="card" href="/products/#zoro-bike">
                         <div class="card__image">
                           <img
                             src="https://ntq.com.vn/media/bgE61cmmRXCCmKAyyL65"
@@ -1166,7 +1147,6 @@ export default function MainPage() {
                             <i class="material-icons">chevron_right</i>
                           </div>
                         </div>
-                      </a>
                     </div>
                   </div>
                   <div class="cards__swiper cards__swiper--2 swiper-container swiper-container-initialized swiper-container-horizontal">
@@ -1177,7 +1157,6 @@ export default function MainPage() {
                     >
                       <div class="swiper-slide swiper-slide-active">
                         <div class="grid grid--c3 swiper-slide">
-                          <a class="card" href="/products/#iluton">
                             <div class="card__image">
                               <img
                                 src="https://ntq.com.vn/media/t86cLB6mSBm9JiiUMG5I"
@@ -1197,8 +1176,6 @@ export default function MainPage() {
                                 <i class="material-icons">chevron_right</i>
                               </div>
                             </div>
-                          </a>
-                          <a class="card" href="/products/#enkomm">
                             <div class="card__image">
                               <img
                                 src="https://ntq.com.vn/media/Si4ruD1SIa0TLt10yhrn"
@@ -1219,8 +1196,6 @@ export default function MainPage() {
                                 <i class="material-icons">chevron_right</i>
                               </div>
                             </div>
-                          </a>
-                          <a class="card" href="/products/#konia">
                             <div class="card__image">
                               <img
                                 src="https://ntq.com.vn/media/ixSeT9qkScqyxA2tYnIX"
@@ -1242,12 +1217,10 @@ export default function MainPage() {
                                 <i class="material-icons">chevron_right</i>
                               </div>
                             </div>
-                          </a>
                         </div>
                       </div>
                       <div class="swiper-slide swiper-slide-next">
                         <div class="grid grid--c3 swiper-slide">
-                          <a class="card" href="/products/#shopify-solutions">
                             <div class="card__image">
                               <img
                                 src="https://ntq.com.vn/media/uIz0dwzCTlqexBjSdwtF"
@@ -1269,8 +1242,6 @@ export default function MainPage() {
                                 <i class="material-icons">chevron_right</i>
                               </div>
                             </div>
-                          </a>
-                          <a class="card" href="/products/#dentalflow">
                             <div class="card__image">
                               <img
                                 src="https://ntq.com.vn/media/TUsBbpoSZidCIXIHWpeo"
@@ -1292,8 +1263,6 @@ export default function MainPage() {
                                 <i class="material-icons">chevron_right</i>
                               </div>
                             </div>
-                          </a>
-                          <a class="card" href="/products/#zoro-bike">
                             <div class="card__image">
                               <img
                                 src="https://ntq.com.vn/media/bgE61cmmRXCCmKAyyL65"
@@ -1315,7 +1284,6 @@ export default function MainPage() {
                                 <i class="material-icons">chevron_right</i>
                               </div>
                             </div>
-                          </a>
                         </div>
                       </div>
                     </div>
