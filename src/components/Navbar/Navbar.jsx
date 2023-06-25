@@ -3,6 +3,10 @@ import { Link } from "react-router-dom";
 import "./Navbar.css";
 
 export default function Navbar() {
+  const handleClick = () => {
+    const navbarMenu = document.getElementById("navbarButtonsExample");
+    navbarMenu.classList.toggle("show");
+  }
   return (
     <>
       <nav className="navbar navbar-expand-lg navbar-light bg-light container-navbar w-100 ">
@@ -23,12 +27,13 @@ export default function Navbar() {
             aria-controls="navbarButtonsExample"
             aria-expanded="false"
             aria-label="Toggle navigation"
+            onClick={handleClick}
           >
             <i className="fas fa-bars"></i>
           </button>
 
           <div className="collapse navbar-collapse" id="navbarButtonsExample">
-            <ul className="navbar-nav me-auto mb-2 mb-lg-0 m-auto">
+            <ul className="navbar-nav me-auto mb-2 mb-lg-0 m-auto" >
               <li className="nav-item m-4">
                 <b>
                   <Link to="/portfolio" className="link">
@@ -50,9 +55,9 @@ export default function Navbar() {
               </li>
             </ul>
 
-            <div className="d-flex align-items-center">
+            <div className="d-flex align-items-center" id="btn-contact-us">
               <Link to="/contact-us/">
-                <button type="button" class="btn btn-primary me-5 p-3">
+                <button type="button" class="btn btn-primary me-5 p-3" id="btn-contacts">
                   CONTACT us
                 </button>
               </Link>

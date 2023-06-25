@@ -5,7 +5,7 @@ import MainPage from '../MainPage/MainPage'
 import './HomePages.css'
 import Portfolio from '../Portfolio/Portfolio'
 import ContactUs from '../ContactUs/ContactUs'
-import Company from '../compony/Company'
+import Company from '../company/Company'
 
 export default function HomePage() {
   return (

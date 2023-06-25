@@ -13,7 +13,7 @@
 .container-navbar{
   position: fixed !important;
   top: 0;
-  height: 11%;
+  height: 15%;
   background-color: rgba(173, 169, 169, 0.872) !important;
   z-index: 2;
   color: gray;
@@ -23,5 +23,16 @@
   color: white;
 }
 .container-navbar button{
+  font-size: 20px;
+}
+#navbarButtonsExample{
+  text-align: right;
+  color: gray;
+}
+#btn-contact-us{
+  float: right;
+}
+#btn-contacts{
   font-size: 13px;
+  margin-right: 0 !important;
 }

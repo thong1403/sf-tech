@@ -1429,7 +1429,7 @@ export default function MainPage() {
         <div class="section section--eighth">
           <div class="container">
             <div class="section-heading section-heading--black">
-              NTQ strategic partners
+              SF - TECH strategic partners
             </div>
             <div class="stategics-wrapper">
               <div class="stategics-items">
