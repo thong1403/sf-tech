@@ -11,7 +11,7 @@ export default function Navbar() {
     <>
       <nav className="navbar navbar-expand-lg navbar-light bg-light container-navbar w-100 ">
         <div className="container">
-            <Link to="/">
+            <Link to="/sf-tech/">
               <img
                 src="https://mdbcdn.b-cdn.net/img/logo/mdb-transaprent-noshadows.webp"
                 height="16"

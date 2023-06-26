@@ -8,6 +8,9 @@
     height: 6rem;
     bottom: 7rem
 }
+.section--second{
+    z-index: 0;
+}
 #img-backgroud-usa{
     background-image: url('https://ntq.com.vn/media/Bb5sCBcSjWeI3ro1QkfQ');
 }
