@@ -1,6 +1,5 @@
 import React from "react";
 import "./Company.css";
-import img1 from "../images/download (4).jpg";
 
 export default function Company() {
   return (
